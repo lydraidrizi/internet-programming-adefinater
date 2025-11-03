@@ -10,8 +10,7 @@
 - Stack Overflow
 
 **Submission Format:**
-- ZIP file containing your solution
-- Filename format: `[student-id]-doctor-who-exam.zip`
+- Pull request to the provided repository
 - Required files: `index.html`, `script.js`, `styles.css`
 
 ## Getting Started
